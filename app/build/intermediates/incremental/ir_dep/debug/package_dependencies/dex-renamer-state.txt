@@ -1,0 +1,4 @@
+#Fri Jul 26 23:24:00 IST 2019
+base.0=D\:\\apps-test\\AAD\\HelloSharedPrefs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
