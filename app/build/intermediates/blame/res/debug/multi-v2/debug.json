@@ -255,22 +255,6 @@
             ]
         },
         {
-            "outputFile": "D:\\apps-test\\AAD\\HelloSharedPrefs\\app\\build\\intermediates\\res\\merged\\debug\\values-watch-v20_values-watch-v20.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\mohan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1b50ecf4af75018a904d7803fa3790b2\\res\\values-watch-v20\\values-watch-v20.xml",
-                    "from": {
-                        "startLines": "2,5,8",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,214,385",
-                        "endLines": "4,7,10",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "209,380,553"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "D:\\apps-test\\AAD\\HelloSharedPrefs\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rIN_values-en-rIN.arsc.flat",
             "map": [
                 {
@@ -298,6 +282,22 @@
                         "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
                         "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
                         "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\apps-test\\AAD\\HelloSharedPrefs\\app\\build\\intermediates\\res\\merged\\debug\\values-watch-v20_values-watch-v20.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\mohan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1b50ecf4af75018a904d7803fa3790b2\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
                     }
                 }
             ]
@@ -350,38 +350,6 @@
             ]
         },
         {
-            "outputFile": "D:\\apps-test\\AAD\\HelloSharedPrefs\\app\\build\\intermediates\\res\\merged\\debug\\values-ky_values-ky.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\mohan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f0cbf94f8d5828c5f9817b590198efa7\\res\\values-ky\\values-ky.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1943",
-                        "endColumns": "100",
-                        "endOffsets": "2039"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\mohan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1b50ecf4af75018a904d7803fa3790b2\\res\\values-ky\\values-ky.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,304,423,507,614,731,809,888,969,1079,1186,1284,1390,1497,1598,1759,1862",
-                        "endColumns": "103,94,118,83,106,116,77,78,80,109,106,97,105,106,100,160,102,80",
-                        "endOffsets": "204,299,418,502,609,726,804,883,964,1074,1181,1279,1385,1492,1593,1754,1857,1938"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "D:\\apps-test\\AAD\\HelloSharedPrefs\\app\\build\\intermediates\\res\\merged\\debug\\values-te_values-te.arsc.flat",
             "map": [
                 {
@@ -409,6 +377,38 @@
                         "startOffsets": "2006",
                         "endColumns": "100",
                         "endOffsets": "2102"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\apps-test\\AAD\\HelloSharedPrefs\\app\\build\\intermediates\\res\\merged\\debug\\values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\mohan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f0cbf94f8d5828c5f9817b590198efa7\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1943",
+                        "endColumns": "100",
+                        "endOffsets": "2039"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mohan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1b50ecf4af75018a904d7803fa3790b2\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,304,423,507,614,731,809,888,969,1079,1186,1284,1390,1497,1598,1759,1862",
+                        "endColumns": "103,94,118,83,106,116,77,78,80,109,106,97,105,106,100,160,102,80",
+                        "endOffsets": "204,299,418,502,609,726,804,883,964,1074,1181,1279,1385,1492,1593,1754,1857,1938"
                     }
                 }
             ]
